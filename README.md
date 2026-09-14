@@ -11,7 +11,11 @@ educational materials, external accountability tools, and clear guidance on
 how to report corruption through legal channels. All in one place, aimed at
 raising civic awareness among Ukrainian citizens, especially youth.
 
-## Features
+## What it does
+ 
+AnticorX brings together educational content, practical tools, and legal
+guidance to help Ukrainian citizens understand and take action against
+corruption. The site is organized into four main sections:
 
 - **Home** — introduction to civic transparency, corruption statistics, and
   the platform's mission and goals.
